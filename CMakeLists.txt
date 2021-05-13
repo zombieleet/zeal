@@ -22,7 +22,7 @@ set(PROJECT_COPYRIGHT "© 2013-2020 Oleg Shparber and other contributors")
 set(PROJECT_DESCRIPTION "A simple documentation browser.")
 set(PROJECT_URL "https://zealdocs.org")
 
-set(QT_MINIMUM_VERSION 5.9.5)
+set(QT_MINIMUM_VERSION 6.1.0)
 
 # Determine version for dev builds.
 if(NOT RELEASE_VERSION)
